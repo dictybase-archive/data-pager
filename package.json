@@ -5,6 +5,7 @@
   "authors": [
     "Siddhartha Basu"
   ],
+  "main": "lib/datapager.js",
   "license": "BSD-3-Clause",
   "devDependencies": {
     "jasmine": "~2.0.1",
