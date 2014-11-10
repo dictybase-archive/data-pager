@@ -28,3 +28,8 @@ console.log(p2.get(0).email);
 console.log(p2.get(1).email);
 ```
 
+# Running unit tests
+```js
+npm test
+```
+
