@@ -1,4 +1,4 @@
-var Pager = require('../lib/pager');
+var Pager = require('../lib/datapager');
 var data = [
                {
                   "country" : "JAPAN",
