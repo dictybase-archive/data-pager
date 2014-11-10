@@ -1,8 +1,7 @@
 {
-  "name": "data-pager",
+  "name": "datapager",
   "version": "0.0.1",
   "description": "A module for paging through array data",
-  "main": "datapager",
   "authors": [
     "Siddhartha Basu"
   ],
@@ -16,5 +15,9 @@
   },
   "scripts": {
       "test": "jasmine-node --color --verbose spec"
+  },
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/dictyBase/data-pager"
   }
 }
